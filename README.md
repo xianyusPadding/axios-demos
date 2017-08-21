@@ -2,11 +2,13 @@
 > demo的相关依赖 bootstrap.css（为了美观）、vue.min.js和axios.min.js
 
 ![](https://github.com/xianyusPadding/axios-demos/blob/master/about/style.jpg)
+<br>
 #### axios的相关使用：
 * axios.get(url[, config]).then(res).catch(error)
 * axios.post(url[, data[, config]]).then(res).catch(error)
 * axios({url,data/params,config}).then(res).catch(error)
 ![](https://github.com/xianyusPadding/axios-demos/blob/master/about/http.jpg)
+<br>
 
 #### 具体使用可参考源码（也比较简单）
 
